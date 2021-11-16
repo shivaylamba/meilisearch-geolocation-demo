@@ -27,3 +27,7 @@ cd frontend
 npm install
 npm start
 ```
+
+## Demonstration
+
+<video alt="Meilisearch Geolocation Demo" src="https://user-images.githubusercontent.com/19529592/142011543-8dce1783-1e38-48a7-9d9b-31a7da53d60c.mp4" width="250" />
