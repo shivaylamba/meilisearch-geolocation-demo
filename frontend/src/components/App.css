@@ -1,0 +1,107 @@
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+  margin: 0;
+  outline: none;
+}
+
+.filter-wrapper,
+.search-button-wrapper {
+  margin-top: 1.5rem;
+}
+
+.filter-checkbox {
+  cursor: pointer;
+}
+
+.filter-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.get-location-btn {
+  margin: 1rem 0;
+  cursor: pointer;
+}
+
+.filter-input {
+  padding: 0.2rem 0.5rem;
+}
+
+select.filter-input {
+  cursor: pointer;
+}
+
+.filter-location-wrapper {
+  display: flex;
+  gap: 1rem;
+}
+
+.search-button-wrapper {
+  text-align: center;
+}
+
+.search-button {
+  padding: 0.4rem 1rem;
+  cursor: pointer;
+}
+
+.table {
+  margin-top: 2.5rem;
+  width: 100%;
+}
+
+.wrapper {
+  margin: 0.5rem 1rem;
+  padding: 0.2rem 0.5rem;
+}
+
+.filter-label {
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+.table-header-data {
+  background-color: #0002;
+  padding: 0.5rem;
+}
+
+.table-header-data:first-child {
+  border-top-left-radius: 5px;
+}
+
+.table-header-data:last-child {
+  border-top-right-radius: 5px;
+}
+
+.table-data {
+  text-align: center;
+  padding: 0.5rem;
+}
+
+tr:nth-child(2n) .table-data {
+  background-color: #0001;
+}

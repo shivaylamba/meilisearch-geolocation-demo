@@ -1,0 +1,142 @@
+[
+  {
+    "id": "5366a91b6b414374af6622d2",
+    "name": "Ginyuu Köln",
+    "address": "Neustraße 29",
+    "locality": "Hamburg",
+    "region": "Nordrhein-Westfalen",
+    "postcode": 10245,
+    "category_ids": [464, 312, 342],
+    "labels": ["Social", "Food and Dining", "Restaurants", "International"],
+    "_geo": {
+      "lat": 51.22672,
+      "lng": 8.128168
+    }
+  },
+  {
+    "id": "0a1a588daaa14eb7a8191f34",
+    "name": "Restaurant Rose",
+    "address": "Gutenbergstraße 2",
+    "locality": "Stuttgart",
+    "region": "Baden-Württemberg",
+    "postcode": 34537,
+    "category_ids": [464, 312, 342],
+    "labels": ["Social", "Food and Dining", "Restaurants", "International"],
+    "_geo": {
+      "lat": 49.351651,
+      "lng": 9.728253
+    }
+  },
+  {
+    "id": "4ade0ca5f964a5204b6821e3",
+    "name": "Jazz Galerie",
+    "address": "Hauptstraße 107",
+    "locality": "Hamburg",
+    "region": "Bayern",
+    "postcode": 36251,
+    "category_ids": [464, 334, 316],
+    "labels": ["Social", "Food and Dining", "Restaurants", "International"],
+    "_geo": {
+      "lat": 49.602559,
+      "lng": 9.171206
+    }
+  },
+  {
+    "id": "1ab5824d869d422f1d5fc4d5",
+    "name": "Bistro Die Blende",
+    "address": "Kantstraße 134",
+    "locality": "Freiburg im Breisgau",
+    "region": "Bayern",
+    "postcode": 10119,
+    "category_ids": [464, 334, 342],
+    "labels": ["Social", "Food and Dining", "Restaurants", "International"],
+    "_geo": {
+      "lat": 52.505985,
+      "lng": 9.414358
+    }
+  },
+  {
+    "id": "06c09490a927428ba9dfcc6c",
+    "name": "Bistro St. Blasii",
+    "address": "Fichtenstraße 40",
+    "locality": "Berlin",
+    "region": "Nordrhein-Westfalen",
+    "postcode": 10999,
+    "category_ids": [464, 342, 312],
+    "labels": ["Social", "Food and Dining", "Restaurants", "International"],
+    "_geo": {
+      "lat": 51.216778,
+      "lng": 12.937023
+    }
+  },
+  {
+    "id": "554600a0498e23f74f41f6db",
+    "name": "Eiseck-Radsch",
+    "address": "Frankfurt",
+    "locality": "Frankfurt",
+    "region": "Baden-Württemberg",
+    "postcode": 10435,
+    "category_ids": [464, 342, 312],
+    "labels": ["Social", "Food and Dining", "Restaurants", "International"],
+    "_geo": {
+      "lat": 51.471268,
+      "lng": 6.807927
+    }
+  },
+  {
+    "id": "4c2a40abd1a10f478a28f664",
+    "name": "Cafe Caramel",
+    "address": "Belforter Straße 27",
+    "locality": "Berlin",
+    "region": "Hessen",
+    "postcode": 94469,
+    "category_ids": [464, 342, 312],
+    "labels": ["Social", "Food and Dining", "Restaurants", "International"],
+    "_geo": {
+      "lat": 52.533475,
+      "lng": 12.17111
+    }
+  },
+  {
+    "id": "4bd440aacaff9521505cd6f0",
+    "name": "Turmgaststätte Häslach",
+    "address": "Schleinkoferstraße 1",
+    "locality": "Darmstadt",
+    "region": "Niedersachsen",
+    "postcode": 61169,
+    "category_ids": [464, 342, 312],
+    "labels": ["Social", "Food and Dining", "Restaurants", "International"],
+    "_geo": {
+      "lat": 49.220493,
+      "lng": 6.562898
+    }
+  },
+  {
+    "id": "4c11d68fb4dfd13a99ff2a8b",
+    "name": "Kolben-Kaffee-Akademie",
+    "address": "Am Lehester Deich 4",
+    "locality": "Walldorf",
+    "region": "Berlin",
+    "postcode": 65185,
+    "category_ids": [464, 342, 312],
+    "labels": ["Social", "Food and Dining", "Restaurants", "International"],
+    "_geo": {
+      "lat": 53.107283,
+      "lng": 8.237787
+    }
+  },
+  {
+    "id": "3fef4b2d8ce449320b690e53",
+    "name": "Syrtaki",
+    "address": "Goldgasse 10",
+    "locality": "Husum",
+    "region": "Niedersachsen",
+    "postcode": 40213,
+    "category_ids": [464, 348, 349],
+    "labels": ["Social", "Food and Dining", "Restaurants", "International"],
+    "_geo": {
+      "lat": 50.083963,
+      "lng": 7.034477
+    }
+  }
+]
