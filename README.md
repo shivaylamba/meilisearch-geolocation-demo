@@ -31,3 +31,13 @@ npm start
 ## Demonstration
 
 <video alt="Meilisearch Geolocation Demo" src="https://user-images.githubusercontent.com/19529592/142011543-8dce1783-1e38-48a7-9d9b-31a7da53d60c.mp4" width="250" />
+
+
+
+
+3. Once the index for the restaurant.json file is created, in a new terminal window move to the frontend and run the following commands to start the react application
+```
+cd frontend
+npm install
+npm start
+```
